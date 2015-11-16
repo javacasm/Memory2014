@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Memory 2014</string>
+    <string name="title_activity_main">Descubre las parejas</string>
+    <string name="puntuacion">Puntuación: </string>
+    <string name="descripcion">Imagen</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="pulseparajugar">Pulse Start para jugar</string>
+    <string name="VolverJugar">Volver a jugar</string>
+</resources>
