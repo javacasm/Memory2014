@@ -1,5 +1,7 @@
 package com.elcacharreo.android.testdrawable;
 
+import android.media.AudioManager;
+import android.media.SoundPool;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.content.res.Resources;
@@ -22,8 +24,8 @@ public class MainActivity extends AppCompatActivity {
     TableLayout tl; // Es donde se juega
     LinearLayout ll; // Layout de inicio
     LinearLayout llJuego;
-
-
+    SoundPool sp;
+    int idAplauso,idAcierto,idMal;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -43,6 +45,18 @@ public class MainActivity extends AppCompatActivity {
 
         initJuego();
 
+        if((android.os.Build.VERSION.SDK_INT) >= 21){
+            SoundPool.Builder sp21 = new SoundPool.Builder();
+            sp21.setMaxStreams(5);
+            sp = sp21.build();
+        }
+        else{
+            sp = new SoundPool(5, AudioManager.STREAM_MUSIC, 0);
+        }
+
+        idAplauso= sp.load(this,R.raw.applause,0);
+        idMal=sp.load(this,R.raw.evil,0);
+        idAcierto=sp.load(this,R.raw.sonido_acierto,0);
 
     }
 
