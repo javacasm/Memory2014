@@ -4,3 +4,6 @@ Se trata del clásico juego de encontrar las parejas de cartas volteándolas
 
 Usaremos las siguientes imágenes
 
+![interrogación](https://raw.githubusercontent.com/javacasm/Memory2014/master/app/src/main/res/drawable/interrogacion.png)
+
+![conejo](https://raw.githubusercontent.com/javacasm/Memory2014/master/app/src/main/res/drawable/conejo.png)
