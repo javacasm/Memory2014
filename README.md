@@ -13,3 +13,5 @@ Usaremos las siguientes imágenes
 ![pollo](https://raw.githubusercontent.com/javacasm/Memory2014/master/app/src/main/res/drawable/pollo.png)
 
 ![rinoceronte](https://raw.githubusercontent.com/javacasm/Memory2014/master/app/src/main/res/drawable/rinoceronte.png)
+
+![serpiente](https://raw.githubusercontent.com/javacasm/Memory2014/master/app/src/main/res/drawable/serpiente.png)
