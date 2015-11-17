@@ -6,7 +6,7 @@ Se trata del clásico juego de encontrar las parejas de cartas volteándolas
 
 Pantalla inicial
 
-![inicio](https://github.com/javacasm/AndroidJava2015/raw/master/temario/imagenes/JuegoMemoryInicio.pngg)
+![inicio](https://github.com/javacasm/AndroidJava2015/raw/master/temario/imagenes/JuegoMemoryInicio.png)
 
 Pantalla del juego
 
