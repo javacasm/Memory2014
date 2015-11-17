@@ -148,7 +148,7 @@ public class MainActivity extends AppCompatActivity {
             bEsperandoVolteo=false;
         }
 
-        sp.play(idAcierto,1,1,1,0,10);
+        sp.play(idAcierto,1,1,1,0,1);
 
         // Busco que control han pulsado
         int iPosicion=getPosicion(v.getId());
