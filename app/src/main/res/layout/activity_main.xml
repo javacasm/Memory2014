@@ -126,10 +126,6 @@
         </TableLayout>
 
 
-
-
-
-
         <Button
             android:id="@+id/btStop"
             android:layout_width="wrap_content"
@@ -143,16 +139,11 @@
 
     </LinearLayout>
 
-
-
-
-
     <LinearLayout
         android:id="@+id/llComienzo"
         android:layout_width="fill_parent"
         android:layout_height="fill_parent"
         android:orientation="vertical" >
-
 
         <TextView
             android:id="@+id/AvisoJuego"
