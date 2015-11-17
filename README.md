@@ -6,11 +6,11 @@ Se trata del clásico juego de encontrar las parejas de cartas volteándolas
 
 Pantalla inicial
 
-![inicio](./imagenes/JuegoMemoryInicio.png)
+![inicio](https://github.com/javacasm/AndroidJava2015/raw/master/temario/imagenes/JuegoMemoryInicio.pngg)
 
 Pantalla del juego
 
-![juego](./imagenes/JuegoMemory.png)
+![juego](https://github.com/javacasm/AndroidJava2015/raw/master/temario/imagenes/JuegoMemory.png)
 
 ## Recursos
 
