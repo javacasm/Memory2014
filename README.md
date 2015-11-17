@@ -30,10 +30,11 @@ Usaremos las siguientes imágenes:
 
 ![tiburon](https://raw.githubusercontent.com/javacasm/Memory2014/master/app/src/main/res/drawable/tiburon.png)
 
-Sonidos (descargados de http://soundbible.com):
+Sonidos (descargados de http://soundbible.com) :
 
 [Acierto](https://raw.githubusercontent.com/javacasm/Memory2014/master/app/src/main/res/raw/sonido_acierto.ogg)
 
 [Risa error](https://raw.githubusercontent.com/javacasm/Memory2014/master/app/src/main/res/raw/evil.ogg)
 
 [Aplauso](https://raw.githubusercontent.com/javacasm/Memory2014/master/app/src/main/res/raw/applause.ogg)
+
