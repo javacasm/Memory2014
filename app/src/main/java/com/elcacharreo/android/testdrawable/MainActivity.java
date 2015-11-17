@@ -57,7 +57,6 @@ public class MainActivity extends AppCompatActivity {
         idAplauso= sp.load(this,R.raw.applause,0);
         idMal=sp.load(this,R.raw.evil,0);
         idAcierto=sp.load(this,R.raw.sonido_acierto,0);
-
     }
 
     int iPuntuacion=0;
