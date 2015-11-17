@@ -2,7 +2,7 @@
 
 Se trata del clásico juego de encontrar las parejas de cartas volteándolas
 
-Usaremos las siguientes imágenes
+Usaremos las siguientes imágenes:
 
 ![interrogación](https://raw.githubusercontent.com/javacasm/Memory2014/master/app/src/main/res/drawable/interrogacion.png)
 
@@ -17,3 +17,11 @@ Usaremos las siguientes imágenes
 ![serpiente](https://raw.githubusercontent.com/javacasm/Memory2014/master/app/src/main/res/drawable/serpiente.png)
 
 ![tiburon](https://raw.githubusercontent.com/javacasm/Memory2014/master/app/src/main/res/drawable/tiburon.png)
+
+Sonidos:
+
+[Acierto](https://raw.githubusercontent.com/javacasm/Memory2014/master/app/src/main/res/raw/sonido_acierto.ogg)
+
+![Risa error](https://raw.githubusercontent.com/javacasm/Memory2014/master/app/src/main/res/raw/evil.ogg)
+
+![Aplauso](https://raw.githubusercontent.com/javacasm/Memory2014/master/app/src/main/res/raw/applause.ogg)
